@@ -100,7 +100,3 @@ predictions = model.predict(img)
 - Add Grad-CAM visualizations for model interpretability
 - Deploy as a lightweight web/mobile inference app
 - Expand dataset size and class diversity
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
